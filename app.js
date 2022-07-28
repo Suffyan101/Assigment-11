@@ -24,3 +24,20 @@
 
 // leayYear(a)
 
+
+// Question 3
+
+// var a = 6
+// var b = 6
+// var c = 6
+
+// function areaTriangle(){
+//     var s = (a+b+c)/2
+//     areat(s)
+//     function areat(){
+//         var area = s*(s-a)*(s-b)*(s-c)
+//         document.write("The area of Triangle is: "+ area)
+//     }
+// }
+
+// areaTriangle(a,b,c)
