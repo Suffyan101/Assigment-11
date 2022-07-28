@@ -63,3 +63,20 @@
 // }
 
 // marksheet(a,b,c)
+
+
+// Question 5
+
+var a = "carry"
+function index(){
+    var b = "r";
+    
+    for(i=0; i<=a.length; i++){
+        var c = a[i]
+        // var d = i-1
+        if(b===c){
+            document.write("Index of "+ b +" is: "+i+"<br>")
+        }
+    }
+}
+index(a)
