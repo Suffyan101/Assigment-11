@@ -67,16 +67,31 @@
 
 // Question 5
 
-var a = "carry"
-function index(){
-    var b = "r";
+// var a = "carry"
+// function index(){
+//     var b = "r";
     
-    for(i=0; i<=a.length; i++){
-        var c = a[i]
-        // var d = i-1
-        if(b===c){
-            document.write("Index of "+ b +" is: "+i+"<br>")
-        }
-    }
-}
-index(a)
+//     for(i=0; i<=a.length; i++){
+//         var c = a[i]
+//         // var d = i-1
+//         if(b===c){
+//             document.write("Index of "+ b +" is: "+i+"<br>")
+//         }
+//     }
+// }
+// index(a)
+
+// Question 6
+
+// var a = "abbcdefghiOu"
+
+// function removeVowel(){
+//     var result =[]
+//     for(i=0;i<a.length;i++){
+//         if(a[i]!=="a" && a[i]!=="e" && a[i]!=="i" && a[i]!=="o" && a[i]!=="u"){
+//             result+=a[i]
+//         }
+//     }
+//     document.write(result)
+// }
+// removeVowel(a)
