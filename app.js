@@ -95,3 +95,17 @@
 //     document.write(result)
 // }
 // removeVowel(a)
+
+
+var a = "Pleases read this application and give me gratuity"
+
+    var result =""
+    for(i=0;i<a.length;i++){
+        switch (a){
+            case a[i]=="a" && a[i]=="e" && a[i]=="i" && a[i]=="o"&& a[i]=="u" 
+            &&a[i+1]=="a" && a[i+1]=="e" && a[i+1]=="i" && a[i+1]=="o"&& a[i+1]=="u":
+            result+=a[i]
+            result+=a[i+1]
+
+        } 
+    }
